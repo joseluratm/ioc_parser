@@ -1,4 +1,4 @@
-# ioc-parser
+# ioc-parser Python3
 IOC Parser is a tool to extract indicators of compromise from security reports in PDF format. A good collection of APT related reports with many IOCs can be found here: [APTNotes](https://github.com/kbandla/APTnotes).
 
 ## Usage
@@ -23,3 +23,8 @@ For HTML parsing support:
 
 For HTTP(S) support:
 * [requests](http://docs.python-requests.org/en/latest/) - *pip install requests*
+
+
+## Notes
+
+This is a port version to made it compatible with python3
